@@ -5,12 +5,12 @@ This week's assignment was a difficult one! CSS and flexbox was challenging! I h
 
 ## Lessons Learned
 
-This was a fun and challenging project, as CSS is totally new to me. Revisiting old HTML tags, elements, etc. is something that I haven't looked at in almost 20 years. Learning about HTML semantics, and consolidation of CSS code are the biggest takeaways I have from this. 
+This project was very difficult for me, but enjoyable once I learned what was moving where! Flexbox is as frustrating as it is rewarding. It's not much, but I'm happy with the final result.
   
 ## Screenshots
 
 Here is a screenshot of my webpage on desktop:
-![Screenshot of Horiseon](./assets/images/horiseonsnip.PNG)
+![Screenshot of Horiseon](./assets/images/week2snip.PNG)
 
 
   
