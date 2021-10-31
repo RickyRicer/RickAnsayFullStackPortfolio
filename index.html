@@ -8,43 +8,45 @@
   </head>
   <body>
     <!-- Header -->
-    <header>
+    <header id="header">
       <h1>Welcome to my Portfolio!</h1>
       <p>
-        Thank you for visiting my humble site
+        Thank you for visiting my site!
       </p>
     </header>
-
     <!-- Navbar -->
     <nav>
       <a href="#aboutme">About Me</a>
-      <a href="#projects">Projects</a>
+      <a href="#project1">Projects</a>
       <a href="#contactme">Contact Me</a>
       <a href="#resume">Resume</a>
     </nav>
 
     <!-- Body -->
     <main>
-      <!-- Sidebar -->
-      <aside>
-        <h2 id="aboutme">About Me</h2>
-        <img id="aside" src="./assets/images/rick.jpg" width=200px height=200px alt="Rick Ansay's Photo"/>
-        <p>Hello! My name is Rick, and I'm currently a student learning to become a full stack developer. At present, I'm a vehicle acquisition specialist at McDonald Automotive Group. I'm looking to change into a career where I can use my creativity! Coding quickly caught my attention, and I can't wait to see where this exciting journey takes me (and hopefully you!)</p>
-        <p>
+      <!-- Cards -->
+      <div class="projects" id="projects">
+          <section class="cardBigger" id="cardBigger">
+            <header>About Me</header>
+            <img id="aside" src="./assets/images/rick.jpg" width=200px height=200px alt="Rick Ansay's Photo"/>
+          <p>Hello! My name is Rick, and I'm currently a student learning to become a full stack developer. At present, I'm a vehicle acquisition specialist at McDonald Automotive Group. I'm looking to change into a career where I can use my creativity! Coding quickly caught my attention, and I can't wait to see where this exciting journey takes me (and hopefully you!)</p>
+          <p>
          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem velit odio, commodi vero consequuntur porro perspiciatis ut ad numquam architecto dolorem quisquam, non ipsum! Impedit adipisci temporibus distinctio aspernatur dolor?
         </p>
-      </aside>
-      <!-- Project Cards -->
+      </section>
+      </div>
+
       <div class="projects" id="projects">
-        <section class="cardBigger" id="cardBigger">
-          <header>Project 1</header>
+        <section class="card" id="card">
+          <header id="project1">Project 1</header>
           <a href="https://rickyricer.github.io/HomeworkWeek1/" target="_blank"><img src="./assets/images/horiseonsnip.png" alt="Horiseon Screen Snip" /></a>
           <p>GitHub Link: <a href="https://github.com/RickyRicer/HomeworkWeek1" target="_blank">HoriseonRepo</a> </p>
         </section>
-        <section class="card">
+
+        <section class="card" id="contactme">
           <header>Contact</header>
-          <img src="./assets/images/tablet.jpg" alt="tablet held in hands" />
-          <p><div id="contactme">
+          <img src="./assets/images/contactcard.jpg" alt="Contact Card Image" />
+          <p><div>
             <p>I am available for contact through many avenues:
               <ul>
                   <li><a href="mailto: rick.ansay@gmail.com">rick.ansay@gmail.com</a></li>
@@ -54,20 +56,18 @@
           </p>
           </div></p>
         </section>
+
         <section class="card">
+          <div id="resume"></div>
           <header>Resume</header>
           <img
-            src="./assets/images/toilet-paper.jpg"
-            alt="rolls of toilet paper in a basket"
+            src="./assets/images/resume.jpg"
+            alt="Screenshot of Resume"
           />
-          <p>Price: $30</p>
+          <p>Here is a link to my resume:</p>
         </section>
+        
 <div id="resume">
-  <h2>Resume</h2>
-  <ul>
-    <li>Link/Image of Resume</li>
-  </ul>
-</div>
     <!-- Footer -->
     <footer>
       <h3>
