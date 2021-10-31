@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('../images/blueprints.jpg');
+  font-family: sans-serif, monospace, fantasy;
+  margin: 0;
+}
+
+header {
+  padding: 40px;
+  text-align: center;
+  background: #bd0000;
+  color: #fff;
+}
+
+nav {
+  display: flex;
+  background-color: #ffe02f;
+
+}
+
+nav a {
+  color: #13293d;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+aside {
+  float: left;
+  flex: 1;
+  background-color: grey;
+  padding: 80px;
+  text-align: center;
+}
+
+
+
+
+footer {
+  
+  padding: 80px;
+  text-align: center;
+  background: #13293d;
+  color: #fff;
+}
+
+
+.projects {
+  flex: 4;
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cardBigger {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 10px;
+  padding: 10px;
+  flex: grow;
+  text-align: center;
+}
+
+.card {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 10px;
+  padding: 10px;
+  flex: 0 0 400px;
+  text-align: center;
+  
+}
+
+.card header {
+  padding: 20px;
+}
+
+.card p {
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  main,
+  nav {
+    flex-direction: column;
+  }
+}
