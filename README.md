@@ -1,11 +1,11 @@
 
 # Rick Ansay's Full Stack Web Portfolio
 
-This week's assignment was a difficult one! CSS and flexbox was challenging! I hope you'll enjoy this basic portfolio site. I hope to add many newly acquired skills to this in the future! Thank you for taking the time to check it out
+Welcome to my portfolio! I am constantly updating this and adding to my projects. Thanks for taking the time to look at my page!
 
 ## Lessons Learned
 
-This project was very difficult for me, but enjoyable once I learned what was moving where! Flexbox is as frustrating as it is rewarding. It's not much, but I'm happy with the final result.
+
   
 ## Screenshots
 
@@ -21,7 +21,7 @@ https://rickyricer.github.io/RickAnsayFullStackPortfolio/
   
 ## Feedback
 
-If you have any feedback, please reach out to me at Rick.Ansay@gmail.com or through the class slack. 
+If you have any feedback, please reach out to me at Rick.Ansay@gmail.com 
 
   
 ## 🔗 Links
@@ -31,4 +31,3 @@ If you have any feedback, please reach out to me at Rick.Ansay@gmail.com or thro
   
 ## Acknowledgements
 
-I'd like to acknowledge Manny, Becca, & Rhys, as well as DU Coding Boot Camp
