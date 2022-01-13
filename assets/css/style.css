@@ -18,3 +18,30 @@
     margin-top: -50px;
     margin-left: 140px;
 } */
+
+/* styles */
+html,
+body {
+    height: 100%;
+}
+
+.btn:hover {
+    color: aqua;
+    cursor: pointer;
+}
+
+li.btn {
+    -webkit-touch-callout: inherit;
+    /* iOS Safari */
+    -webkit-user-select: inherit;
+    /* Safari */
+    -khtml-user-select: inherit;
+    /* Konqueror HTML */
+    -moz-user-select: inherit;
+    /* Old versions of Firefox */
+    -ms-user-select: inherit;
+    /* Internet Explorer/Edge */
+    user-select: inherit;
+    /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
