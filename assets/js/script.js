@@ -24,7 +24,7 @@ function draw() {
     ctx.fillStyle = fadeColor;
     ctx.fillRect(0, 0, c.width, c.height);
 
-    ctx.fillStyle = "rgb(198,251,255)";
+    ctx.fillStyle = "rgb(106,13,173)";
     ctx.font = font_size + "px arial";
 
     for (var i = 0; i < drops.length; i++) {
