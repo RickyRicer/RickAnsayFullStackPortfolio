@@ -195,12 +195,20 @@ h3 {
     transition: all .8s ease-in-out;
 }
 
+#emptracker_card{
+    background-image: url("../images/emptracker.png")
+}
+
 #namepass_card {
     background-image: url("../images/namepasspro.png");
 }
 
 #npass_card {
     background-image: url("../images/npass.png");
+}
+
+#techFeed_card{
+    background-image: url("../images/blog-preview.png")
 }
 
 .flex-spotlight-parent:hover .flex-spotlight,
