@@ -14,10 +14,14 @@
 
 ## Description
 
+<a href="https://rickyricer.github.io/rickAnsayWdPortfolio/">View Demo!</a> <br />
+<br />
+[![Product Name Screen Shot][product-screenshot]](#) <br />
 A quick site I put together to showcase some of my best coding projects. Enjoy!
 
 ## Installation
 
+Clone the repo if you'd like to install this locally.
 
 
 ## Usage
@@ -49,4 +53,5 @@ Find me on GitHub: [RickyRicer](https://github.com/RickyRicer)<br />
 ✉️ Email me with any questions: rick.ansay@gmail.com<br /><br />
 🖖 This README was generated with ❤️ by [README-generator](https://github.com/RickyRicer/README-Generator) 🔥🔥🔥
     
-  
+  <!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: assets/images/screenshot.png
